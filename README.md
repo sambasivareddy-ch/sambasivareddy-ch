@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Good Day!
+Good Day!<hr>
+### Skills
+- React
+- Golang
+- Node.js
+- MongoDB
+- Postgres
+- Docker
+  
