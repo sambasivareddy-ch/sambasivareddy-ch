@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 Good Day!<hr>
 
 ### Frameworks & Tools
-![My Skills](https://skillicons.dev/icons?i=go,nodejs,react,react-native,docker,expressjs,postgres,mongodb,git,sass,figma)
+![My Skills](https://skillicons.dev/icons?i=go,nodejs,react,docker,expressjs,postgres,mongodb,sass,k8s)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=git,postman,figma)
 
 ### Programming Languages & Markup
 ![My Skills](https://skillicons.dev/icons?i=go,javascript,python,c,java,cpp,html,css)
